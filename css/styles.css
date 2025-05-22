@@ -31,7 +31,7 @@ img {
 .container {
   max-width: 1158px;
   padding-left: 15px;
-  padding-right: 15;
+  padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -138,17 +138,21 @@ img {
 .servis-btn {
   display: block;
   padding: 16px 32px;
-  background-color: #404bbf;
+  background-color: #4d5ae5;
   border-radius: 4px;
   margin: 0 auto;
   color: #ffffff;
+  cursor: pointer;
+  min-width: 169px;
+  height: 56px;
+  border: none;
 }
 
 /* /Intro */
 
 /* Advantages */
 .advantages-section {
-  padding: 188px 0;
+  padding: 120px 0;
 }
 
 .visually-hidden {
@@ -188,6 +192,7 @@ img {
 
 .team-card {
   width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
 }
 
 .zachem {
@@ -211,6 +216,7 @@ img {
 .head-port {
   min-width: 218px;
   margin: 0 auto;
+  margin-bottom: 72px;
 }
 
 .portfolio-block {
