@@ -1,0 +1,185 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+ul,
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+img {
+  display: block;
+}
+.container {
+  max-width: 1158px;
+  padding-left: 15px;
+  padding-right: 15;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+  letter-spacing: 2%;
+  font-size: 16px;
+  line-height: 150%;
+  color: #434455;
+}
+
+ul,
+a {
+  list-style: none;
+  text-decoration: none;
+}
+span {
+  color: #2e2f42;
+}
+
+.top-logo,
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+}
+.top-menu-active {
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #2e2f42;
+}
+
+.top-menu {
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.top-contact {
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+.advent-paragraph {
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+.text {
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+.paragraph-footer {
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  font-size: 16px;
+  line-height: 150%;
+  color: #f4f4fd;
+}
+.top-adres {
+  font-style: normal;
+}
+.top-contact:hover,
+.top-contact:focus {
+  color: #404bbf;
+}
+
+.top-menu {
+  font-size: 20px;
+  line-height: 120%;
+  color: #2e2f42;
+}
+.team-name,
+.advent-item,
+.portfolio-title {
+  font-size: 20px;
+  line-height: 120%;
+  color: #2e2f42;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+.top-contact,
+.advent-paragraph,
+.text {
+  font-size: 16px;
+  line-height: 150%;
+  color: #434455;
+}
+
+.sections-intro,
+.footer {
+  background-color: #2e2f42;
+}
+
+.intro-text {
+  text-align: center;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 107%;
+  color: #fff;
+  letter-spacing: 0.02em;
+}
+
+.servis-btn {
+  background: #4d5ae5;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #fff;
+  cursor: pointer;
+}
+.servis-btn:hover,
+.servis-btn:focus {
+  background-color: #404bbf;
+}
+.top-menu:hover,
+.top-menu:focus {
+  color: #404bbf;
+}
+.top-menu-active:hover,
+.top-menu-active:focus {
+  color: #404bbf;
+}
+
+.head-sect {
+  font-weight: 500;
+  font-size: 36px;
+  text-align: center;
+  color: #2e2f42;
+  background: #f4f4fd;
+  text-transform: capitalize;
+  letter-spacing: 0.02em;
+  line-height: 1.11;
+}
+.section-team {
+  font-weight: 500;
+  font-size: 36px;
+  text-align: center;
+  color: #2e2f42;
+  background: #f4f4fd;
+  text-transform: capitalize;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+}
+
+.team-card {
+  background-color: #ffffff;
+}
+.footer-span {
+  color: #f4f4fd;
+}
