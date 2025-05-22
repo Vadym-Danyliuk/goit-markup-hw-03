@@ -70,6 +70,7 @@ img {
 .header-block {
   display: flex;
   justify-content: space-between;
+  min-width: 1128px;
   padding-top: 24px;
   padding-bottom: 24px;
 }
@@ -83,6 +84,7 @@ img {
   margin-right: 76px;
   text-transform: uppercase;
   font-weight: 700;
+  max-width: 115px;
 }
 
 .logo-acc {
