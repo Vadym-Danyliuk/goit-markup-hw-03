@@ -212,7 +212,7 @@ img {
 }
 
 .head-port {
-  min-width: 218px;
+  max-width: 218px;
   margin: 0 auto;
   margin-bottom: 72px;
 }
