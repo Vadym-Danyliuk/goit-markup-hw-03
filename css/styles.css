@@ -38,7 +38,7 @@ img {
 body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
-  letter-spacing: 2%;
+
   font-size: 16px;
   line-height: 150%;
   color: #434455;
@@ -70,9 +70,8 @@ img {
 .header-block {
   display: flex;
   justify-content: space-between;
-  min-width: 1128px;
-  padding-top: 24px;
-  padding-bottom: 24px;
+  margin-top: 24px;
+  margin-bottom: 24px;
 }
 
 .top-menu {
