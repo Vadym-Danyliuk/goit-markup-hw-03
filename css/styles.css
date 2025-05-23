@@ -70,8 +70,7 @@ img {
 .header-block {
   display: flex;
   justify-content: space-between;
-  margin-top: 24px;
-  margin-bottom: 24px;
+  height: 72px;
 }
 
 .top-menu {
@@ -103,6 +102,7 @@ img {
 .top-adres {
   display: flex;
   gap: 40px;
+  align-items: center;
 }
 
 .address-list {
